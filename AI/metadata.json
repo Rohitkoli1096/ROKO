@@ -1,0 +1,8 @@
+{
+  "name": "ROKO - Jarvis Style AI Assistant",
+  "description": "A highly advanced, futuristic personal AI assistant with real-time voice, text, and image generation capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
